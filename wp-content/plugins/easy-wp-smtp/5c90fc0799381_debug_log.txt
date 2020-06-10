@@ -1,0 +1,69 @@
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: d2Vic2l0ZUBmbGlwa2ljay5jbG91ZA==
+CLIENT -> SERVER: c3JycmhmbG53anpjcnJsZA==
+CLIENT -> SERVER: MAIL FROM:<website@flipkick.cloud>
+CLIENT -> SERVER: RCPT TO:<leonardo.neri@flipkick.cloud>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 31 Jan 2020 11:16:34 +0000
+CLIENT -> SERVER: To: leonardo.neri@flipkick.cloud
+CLIENT -> SERVER: From: WordPress <website@flipkick.cloud>
+CLIENT -> SERVER: Subject: [flipkick] New Admin Email Address
+CLIENT -> SERVER: Message-ID: <3fcad5280588675ced9604b00d6697ec@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy root,
+CLIENT -> SERVER: 
+CLIENT -> SERVER: You recently requested to have the administration email address on
+CLIENT -> SERVER: your site changed.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If this is correct, please click on the following link to change it:
+CLIENT -> SERVER: http://localhost/wp-admin/options.php?adminhash=a55ebae89612e300169aa6c3b16964a5
+CLIENT -> SERVER: 
+CLIENT -> SERVER: You can safely ignore and delete this email if you do not want to
+CLIENT -> SERVER: take this action.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: This email has been sent to leonardo.neri@flipkick.cloud
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Regards,
+CLIENT -> SERVER: All at flipkick
+CLIENT -> SERVER: http://localhost
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: d2Vic2l0ZUBmbGlwa2ljay5jbG91ZA==
+CLIENT -> SERVER: c3JycmhmbG53anpjcnJsZA==
+CLIENT -> SERVER: MAIL FROM:<website@flipkick.cloud>
+CLIENT -> SERVER: RCPT TO:<jose@strdeo.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 31 Jan 2020 11:16:56 +0000
+CLIENT -> SERVER: To: jose@strdeo.com
+CLIENT -> SERVER: From: WordPress <website@flipkick.cloud>
+CLIENT -> SERVER: Subject: [flipkick] Admin Email Changed
+CLIENT -> SERVER: Message-ID: <288517db99b0bdd36c69817b0e95f771@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Hi,
+CLIENT -> SERVER: 
+CLIENT -> SERVER: This notice confirms that the admin email address was changed on flipkick.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The new admin email address is leonardo.neri@flipkick.cloud.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: This email has been sent to jose@strdeo.com
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Regards,
+CLIENT -> SERVER: All at flipkick
+CLIENT -> SERVER: http://localhost
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
